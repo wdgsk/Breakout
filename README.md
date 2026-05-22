@@ -1,5 +1,5 @@
 # Breakout
-Breakout game written in C for linux terminal \
+Breakout game written in C for linux terminal.
 
 # Compiling
 gcc collision.c draw.c input.c logic.c main.c nextLvl.c -lm -o game
