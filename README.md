@@ -8,7 +8,7 @@ gcc collision.c draw.c input.c logic.c main.c nextLvl.c -lm -o game
 ./game
 
 # Controls
-Left/Right key for movement
+Left/Right key for movement \
 'Q' - quit
 
 # Resolution
