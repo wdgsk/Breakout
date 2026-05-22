@@ -12,9 +12,9 @@ Left/Right key for movement \
 'Q' - quit
 
 # Resolution
-Resize terminal or use *--no-res* option
+Resize terminal or use *--no-res* option.
 
 # Level Building
 **1.** First line must contain the exact number of bricks \
-the number not being larger than three digits.
+the number not being larger than three digits. \
 **2.** Adjacent characters are considered an entire unit.
